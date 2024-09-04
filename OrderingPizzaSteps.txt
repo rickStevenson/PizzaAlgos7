@@ -1,1 +1,4 @@
 These are the steps to order a pizza
+Step 1: Order pizza
+Step 2: Eat pizza
+Step 3: LOVE PIZZA!
